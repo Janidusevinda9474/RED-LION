@@ -1,7 +1,7 @@
 {
-               "name": "Astro-Md",
+               "name": "RED-LION",
                "version": "0.0.6",
-               "description": "Multi device whatsapp bot by Vihangayt.",
+               "description": "Multi device whatsapp bot by .....🄹🄰🄽🄸🄳🅄  🅂🄴🅅🄸🄽🄳🄰......",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name AstroMD",
                 "stop": "pm2 stop AstroMD"
                 },
-               "author": "Vihangayt",
+               "author": ".....🄹🄰🄽🄸🄳🅄  🅂🄴🅅🄸🄽🄳🄰.....",
               "dependencies": {
                        "@adiwajshing/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -76,10 +76,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/SamPandey001/Secktor-Md.git"
+                 "url": "https://github.com/Janidusevinda9474/RED-LION"
                   },
                  "bugs": {
-                 "url": "https://github.com/SamPandey001/Secktor-Md/issues"
+                 "url": "https://github.com/Janidusevinda9474/RED-LION"
                   },
-                 "homepage": "https://github.com/SamPandey001/Secktor-Md#readme"
+                 "homepage": "https://github.com/Janidusevinda9474/RED-LION"
                   }
