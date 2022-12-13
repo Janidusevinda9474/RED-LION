@@ -6,18 +6,18 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 global.port= process.env.PORT || 5000
-global.email = 'vihangaytbisnuss@gmail.com'
-global.github = 'https://github.com/vihangayt0/Astro-MD-V5'
+global.email = 'janidusevinda72@gmail.com'
+global.github = 'https://github.com/Janidusevinda9474/RED-LION'
 global.location = 'Sri Lanka'
 global.gurl = 'https://instagram.com/' 
 global.sudo = process.env.SUDO || '9400000000'
 global.devs = '9476289851';
-global.website = 'https://github.com/vihangayt0/Astro-MD-V5'
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg'
+global.website = 'https://github.com/Janidusevinda9474/RED-LION'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.ibb.co/VJg9ksk/20221213-142104.jpg'
 module.exports = {
   ntilink: 'chat.whatsapp.com',
-  botname: process.env.BOT_NAME || 'Astro-MD',
-  footer: process.env.FOOTER || 'Astro-MD',
+  botname: process.env.BOT_NAME || 'RED-LION',
+  footer: process.env.FOOTER || 'RED-LION-MD,
   ANTI_BAD: process.env.ANTI_BAD || 'false',
   rmbg: process.env.REMOVEBG_API || 'AH5BTMLtcC1PLipDQXessTFk',
   ANTI_SPAM: process.env.ANTI_SPAM || 'true',
