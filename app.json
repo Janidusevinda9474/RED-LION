@@ -1,7 +1,7 @@
 {
-  "name": "Astro-Md",
+  "name": "RED-LION-Md",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://raw.githubusercontent.com/vihangayt0/server-/main/Astroboy.jpg",
+  "logo": "https://i.ibb.co/VJg9ksk/20221213-142104.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "AstroBot", "Astro","AstroMD","theme bot","multi device"],
   "success_url": "/",
   "stack": "container",
@@ -85,7 +85,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "SamPandey001;Astro",
+     "value": "RED-LION-MD;RED-LION",
      "required": false 
   }
 },
